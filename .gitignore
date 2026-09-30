@@ -1,0 +1,38 @@
+# Object and compiled files
+*.o
+*.o.*
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+.*.cmd
+
+# Archives and shared objects
+*.a
+*.so
+
+# Preprocessed source and assembly
+*.i
+*.s
+
+# Module dependency and tracking files
+modules.builtin
+Module.markers
+modules.order
+
+# Compressed archives or backup files
+*.gz
+*.bz2
+*.xz
+*.lzma
+*~
+.#*
+
+# Tags and IDE files
+tags
+TAGS
+.project
+.cproject
+.vscode/
